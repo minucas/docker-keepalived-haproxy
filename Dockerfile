@@ -1,4 +1,4 @@
-FROM haproxy:1.7.3
+FROM haproxy:1.9.0
 
 ENV KEEPALIVED_VERSION 1:1.2.13-1
 
